@@ -1,4 +1,4 @@
-# Marital-status-Prediction
+# Marital-status-Prediction Using Machine Learing Algorithms
 Marriage Status: If you’re looking for a unique way to announce your wedding or send wedding wishes to congratulate any of your friends, colleagues, relatives or close ones this list of best marriage status can be a perfect way. Here we have assembled marriage status and marriage quotes from the history ever said about marriage and some from our editorial team. This post offers the best marriage status for Whatsapp and Facebook, marriage captions for Instagram and short marriage quotes from famous sayings on marriage and wedding. Scroll down and get funny, inspirational and famous marriage status quotes.
 
 PROPOSED ALGORITHM:
